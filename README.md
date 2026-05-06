@@ -5,8 +5,7 @@
 ## 데모
 
 **출력 영상 (왜곡 보정 후)**
-
-<video src="video_rectified.gif" controls width="640"></video>
+<img src="video_rectified.gif" width="640">
 
 ## 동작 순서
 
