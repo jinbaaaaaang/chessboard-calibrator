@@ -4,13 +4,9 @@
 
 ## 데모
 
-**입력 영상 (원본)**
-
-<video src="video_calibration.mp4" controls width="640"></video>
-
 **출력 영상 (왜곡 보정 후)**
 
-<video src="video_rectified.mp4" controls width="640"></video>
+<video src="video_rectified.gif" controls width="640"></video>
 
 ## 동작 순서
 
